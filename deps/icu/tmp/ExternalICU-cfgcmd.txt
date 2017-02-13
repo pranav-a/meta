@@ -1,0 +1,1 @@
+cmd='CC=/usr/bin/cc;CXX=/usr/bin/c++;CFLAGS=;CXXFLAGS=;/home/pranav/Documents/meta/deps/icu/src/ExternalICU/source/runConfigureICU;Linux;--disable-shared;--enable-static;--disable-dyload;--disable-extras;--disable-tests;--disable-samples;--prefix=<INSTALL_DIR>'
