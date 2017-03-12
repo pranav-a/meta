@@ -1,0 +1,392 @@
+1d 2ds 3sa at3 ta2 a1 0d 1ds 2sa at2 ta1 a0 2d 3ds 4sa at4 ta3 a2 
+1c 2co 3on 4nc 5ci 6id 7de er6 ra5 ab4 bl3 le2 e1 0c 1co 2on 3nc 4ci 5id 6de er5 ra4 ab3 bl2 le1 e0 2c 3co 4on 5nc 6ci 7id 8de er7 ra6 ab5 bl4 le3 e2 
+1c 2co 3om 4mi 5ib bi4 in3 ne2 e1 0c 1co 2om 3mi 4ib bi3 in2 ne1 e0 2c 3co 4om 5mi 6ib bi5 in4 ne3 e2 
+1s 2se 3eu 4ur ri4 it3 ty2 y1 0s 1se 2eu 3ur ri3 it2 ty1 y0 2s 3se 4eu 5ur ri5 it4 ty3 y2 
+1d 2dr 3ra 4as 5st ti5 ic4 cl3 ly2 y1 0d 1dr 2ra 3as 4st ti4 ic3 cl2 ly1 y0 2d 3dr 4ra 5as 6st ti6 ic5 cl4 ly3 y2 
+1m 2me 3et 4te 5er 6ro 7ol lo7 og6 gi5 ic4 ca3 al2 l1 0m 1me 2et 3te 4er 5ro 6ol lo6 og5 gi4 ic3 ca2 al1 l0 2m 3me 4et 5te 6er 7ro 8ol lo8 og7 gi6 ic5 ca4 al3 l2 
+1d 2do 3ou up3 pt2 t1 0d 1do 2ou up2 pt1 t0 2d 3do 4ou up4 pt3 t2 
+1h 2hi 3im 4ms 5se el4 lf3 fe2 e1 0h 1hi 2im 3ms 4se el3 lf2 fe1 e0 2h 3hi 4im 5ms 6se el5 lf4 fe3 e2 
+1s 2si 3is 4ss se4 er3 rs2 s1 0s 1si 2is 3ss se3 er2 rs1 s0 2s 3si 4is 5ss se5 er4 rs3 s2 
+1l 2lu 3uc 4ck 5ke el4 le3 ey2 y1 0l 1lu 2uc 3ck 4ke el3 le2 ey1 y0 2l 3lu 4uc 5ck 6ke el5 le4 ey3 y2 
+1v 2vo 3ot 4te ei4 in3 ng2 g1 0v 1vo 2ot 3te ei3 in2 ng1 g0 2v 3vo 4ot 5te ei5 in4 ng3 g2 
+1c 2co 3om 4mi 5it tt4 te3 ee2 e1 0c 1co 2om 3mi 4it tt3 te2 ee1 e0 2c 3co 4om 5mi 6it tt5 te4 ee3 e2 
+1n 2no oe2 e1 0n 1no oe1 e0 2n 3no oe3 e2 
+1s 2sp 3pr 4ri 5in nk4 ke3 el2 l1 0s 1sp 2pr 3ri 4in nk3 ke2 el1 l0 2s 3sp 4pr 5ri 6in nk5 ke4 el3 l2 
+1a 2ac 3ce es3 ss2 s1 0a 1ac 2ce es2 ss1 s0 2a 3ac 4ce es4 ss3 s2 
+1d 2dr 3ra 4as 5st 6ti ic5 ca4 al3 ly2 y1 0d 1dr 2ra 3as 4st 5ti ic4 ca3 al2 ly1 y0 2d 3dr 4ra 5as 6st 7ti ic6 ca5 al4 ly3 y2 
+1r 2ru 3uh 4hb ba4 ar3 rb2 b1 0r 1ru 2uh 3hb ba3 ar2 rb1 b0 2r 3ru 4uh 5hb ba5 ar4 rb3 b2 
+1s 2so 3or 4ro 5or ri5 ie4 et3 ty2 y1 0s 1so 2or 3ro 4or ri4 ie3 et2 ty1 y0 2s 3so 4or 5ro 6or ri6 ie5 et4 ty3 y2 
+1s 2si 3ig 4gn 5ni 6if fi6 ic5 ce4 en3 nt2 t1 0s 1si 2ig 3gn 4ni 5if fi5 ic4 ce3 en2 nt1 t0 2s 3si 4ig 5gn 6ni 7if fi7 ic6 ce5 en4 nt3 t2 
+1a 2ac 3ce ep3 pt2 t1 0a 1ac 2ce ep2 pt1 t0 2a 3ac 4ce ep4 pt3 t2 
+1s 2st 3tr 4re 5ec ch4 he3 ed2 d1 0s 1st 2tr 3re 4ec ch3 he2 ed1 d0 2s 3st 4tr 5re 6ec ch5 he4 ed3 d2 
+1l 2lo 3on 4nl le3 ey2 y1 0l 1lo 2on 3nl le2 ey1 y0 2l 3lo 4on 5nl le4 ey3 y2 
+1v 2ve 3eg 4ga 5at ta5 ab4 bl3 le2 e1 0v 1ve 2eg 3ga 4at ta4 ab3 bl2 le1 e0 2v 3ve 4eg 5ga 6at ta6 ab5 bl4 le3 e2 
+1r 2re 3ec 4ce ei4 it3 ts2 s1 0r 1re 2ec 3ce ei3 it2 ts1 s0 2r 3re 4ec 5ce ei5 it4 ts3 s2 
+1s 2sy 3yn 4no 5on 6no om5 mo4 ou3 us2 s1 0s 1sy 2yn 3no 4on 5no om4 mo3 ou2 us1 s0 2s 3sy 4yn 5no 6on 7no om6 mo5 ou4 us3 s2 
+1d 2di 3in 4nn ni4 in3 ng2 g1 0d 1di 2in 3nn ni3 in2 ng1 g0 2d 3di 4in 5nn ni5 in4 ng3 g2 
+1b 2be 3en 4nf 5fi ic5 ci4 ia3 al2 l1 0b 1be 2en 3nf 4fi ic4 ci3 ia2 al1 l0 2b 3be 4en 5nf 6fi ic6 ci5 ia4 al3 l2 
+1h 2hi 3ie 4en no4 ou3 us2 s1 0h 1hi 2ie 3en no3 ou2 us1 s0 2h 3hi 4ie 5en no5 ou4 us3 s2 
+1c 2co 3or 4rd 5de er4 ro3 oy2 y1 0c 1co 2or 3rd 4de er3 ro2 oy1 y0 2c 3co 4or 5rd 6de er5 ro4 oy3 y2 
+1f 2fo 3or 4ri ie4 eg3 gn2 n1 0f 1fo 2or 3ri ie3 eg2 gn1 n0 2f 3fo 4or 5ri ie5 eg4 gn3 n2 
+1n 2no 3on 4ns 5se en4 nc3 ce2 e1 0n 1no 2on 3ns 4se en3 nc2 ce1 e0 2n 3no 4on 5ns 6se en5 nc4 ce3 e2 
+1d 2da 3ar 4rl li3 in2 n1 0d 1da 2ar 3rl li2 in1 n0 2d 3da 4ar 5rl li4 in3 n2 
+1u 2ue 3er rs2 s1 0u 1ue 2er rs1 s0 2u 3ue 4er rs3 s2 
+1m 2ma 3ag 4gn 5ni 6if fi6 ic5 ca4 an3 nt2 t1 0m 1ma 2ag 3gn 4ni 5if fi5 ic4 ca3 an2 nt1 t0 2m 3ma 4ag 5gn 6ni 7if fi7 ic6 ca5 an4 nt3 t2 
+1s 2su 3up 4pp 5po 6os si5 id4 dl3 ly2 y1 0s 1su 2up 3pp 4po 5os si4 id3 dl2 ly1 y0 2s 3su 4up 5pp 6po 7os si6 id5 dl4 ly3 y2 
+1f 2fe 3ea 4al li4 in3 ng2 g1 0f 1fe 2ea 3al li3 in2 ng1 g0 2f 3fe 4ea 5al li5 in4 ng3 g2 
+1g 2gu 3ua 4ar 5rd di4 ie3 en2 n1 0g 1gu 2ua 3ar 4rd di3 ie2 en1 n0 2g 3gu 4ua 5ar 6rd di5 ie4 en3 n2 
+1d 2dr 3ro 4op pe3 ed2 d1 0d 1dr 2ro 3op pe2 ed1 d0 2d 3dr 4ro 5op pe4 ed3 d2 
+1d 2dr 3re 4ea am4 mi3 in2 n1 0d 1dr 2re 3ea am3 mi2 in1 n0 2d 3dr 4re 5ea am5 mi4 in3 n2 
+1s 2sa 3au 4ug gh3 ht2 t1 0s 1sa 2au 3ug gh2 ht1 t0 2s 3sa 4au 5ug gh4 ht3 t2 
+1u 2us 3sf fu3 ul2 l1 0u 1us 2sf fu2 ul1 l0 2u 3us 4sf fu4 ul3 l2 
+1p 2pa 3ar 4re 5ep 6ph 7he er7 rn6 na5 al4 li3 ia2 a1 0p 1pa 2ar 3re 4ep 5ph 6he er6 rn5 na4 al3 li2 ia1 a0 2p 3pa 4ar 5re 6ep 7ph 8he er8 rn7 na6 al5 li4 ia3 a2 
+1g 2ge 3en 4ni io4 ou3 us2 s1 0g 1ge 2en 3ni io3 ou2 us1 s0 2g 3ge 4en 5ni io5 ou4 us3 s2 
+1s 2se 3es 4si io3 on2 n1 0s 1se 2es 3si io2 on1 n0 2s 3se 4es 5si io4 on3 n2 
+1i 2in 3nc 4co 5om 6mp 7pa 8at ta8 ab7 bi6 il5 li4 it3 ty2 y1 0i 1in 2nc 3co 4om 5mp 6pa 7at ta7 ab6 bi5 il4 li3 it2 ty1 y0 2i 3in 4nc 5co 6om 7mp 8pa 9at ta9 ab8 bi7 il6 li5 it4 ty3 y2 
+1a 2aq 3qu 4ua 5an 6nt te6 en5 nc4 ce3 es2 s1 0a 1aq 2qu 3ua 4an 5nt te5 en4 nc3 ce2 es1 s0 2a 3aq 4qu 5ua 6an 7nt te7 en6 nc5 ce4 es3 s2 
+1s 2su 3uc 4cs 5se es5 si4 iv3 ve2 e1 0s 1su 2uc 3cs 4se es4 si3 iv2 ve1 e0 2s 3su 4uc 5cs 6se es6 si5 iv4 ve3 e2 
+1a 2ap 3pp 4pr 5ro 6op pi5 ia4 at3 te2 e1 0a 1ap 2pp 3pr 4ro 5op pi4 ia3 at2 te1 e0 2a 3ap 4pp 5pr 6ro 7op pi6 ia5 at4 te3 e2 
+1o 2on 3ni 4ir ro4 ou3 us2 s1 0o 1on 2ni 3ir ro3 ou2 us1 s0 2o 3on 4ni 5ir ro5 ou4 us3 s2 
+1r 2re 3el 4li 5ig go4 ou3 us2 s1 0r 1re 2el 3li 4ig go3 ou2 us1 s0 2r 3re 4el 5li 6ig go5 ou4 us3 s2 
+1p 2po 3ol 4la 5at ti4 ic3 cs2 s1 0p 1po 2ol 3la 4at ti3 ic2 cs1 s0 2p 3po 4ol 5la 6at ti5 ic4 cs3 s2 
+1r 2re 3el 4li 5it ti5 iv4 vl3 ly2 y1 0r 1re 2el 3li 4it ti4 iv3 vl2 ly1 y0 2r 3re 4el 5li 6it ti6 iv5 vl4 ly3 y2 
+1a 2as 3ss 4se 5es sm5 me4 en3 nt2 t1 0a 1as 2ss 3se 4es sm4 me3 en2 nt1 t0 2a 3as 4ss 5se 6es sm6 me5 en4 nt3 t2 
+1o 2or 3rg 4gi 5in na5 al4 ll3 ly2 y1 0o 1or 2rg 3gi 4in na4 al3 ll2 ly1 y0 2o 3or 4rg 5gi 6in na6 al5 ll4 ly3 y2 
+1s 2st 3tu 4ud de4 en3 ns2 s1 0s 1st 2tu 3ud de3 en2 ns1 s0 2s 3st 4tu 5ud de5 en4 ns3 s2 
+1k 2ka 3al 4li 5ie 6ed 7do os6 sc5 co4 op3 pe2 e1 0k 1ka 2al 3li 4ie 5ed 6do os5 sc4 co3 op2 pe1 e0 2k 3ka 4al 5li 6ie 7ed 8do os7 sc6 co5 op4 pe3 e2 
+1n 2na 3ar 4ra 5at ti4 iv3 ve2 e1 0n 1na 2ar 3ra 4at ti3 iv2 ve1 e0 2n 3na 4ar 5ra 6at ti5 iv4 ve3 e2 
+1s 2st 3tr 4ra 5at te5 eg4 ge3 em2 m1 0s 1st 2tr 3ra 4at te4 eg3 ge2 em1 m0 2s 3st 4tr 5ra 6at te6 eg5 ge4 em3 m2 
+1m 2mo 3or 4rt 5tg 6ga au5 ug4 ge3 ed2 d1 0m 1mo 2or 3rt 4tg 5ga au4 ug3 ge2 ed1 d0 2m 3mo 4or 5rt 6tg 7ga au6 ug5 ge4 ed3 d2 
+1d 2de 3es 4sr 5ri 6ip pt5 ti4 io3 on2 n1 0d 1de 2es 3sr 4ri 5ip pt4 ti3 io2 on1 n0 2d 3de 4es 5sr 6ri 7ip pt6 ti5 io4 on3 n2 
+1p 2pr 3ro 4of fe3 er2 r1 0p 1pr 2ro 3of fe2 er1 r0 2p 3pr 4ro 5of fe4 er3 r2 
+1m 2me 3ee en2 n1 0m 1me 2ee en1 n0 2m 3me 4ee en3 n2 
+1d 2di 3ie 4em 5ma an4 nd3 ds2 s1 0d 1di 2ie 3em 4ma an3 nd2 ds1 s0 2d 3di 4ie 5em 6ma an5 nd4 ds3 s2 
+1s 2so 3op 4ph 5hm mo4 or3 re2 e1 0s 1so 2op 3ph 4hm mo3 or2 re1 e0 2s 3so 4op 5ph 6hm mo5 or4 re3 e2 
+1c 2cr 3re 4ea ad4 di3 it2 t1 0c 1cr 2re 3ea ad3 di2 it1 t0 2c 3cr 4re 5ea ad5 di4 it3 t2 
+1e 2em 3mb 4ba 5ar 6ra 7as ss6 sm5 me4 en3 nt2 t1 0e 1em 2mb 3ba 4ar 5ra 6as ss5 sm4 me3 en2 nt1 t0 2e 3em 4mb 5ba 6ar 7ra 8as ss7 sm6 me5 en4 nt3 t2 
+1r 2re 3ec 4ci 5iv vi4 in3 ng2 g1 0r 1re 2ec 3ci 4iv vi3 in2 ng1 g0 2r 3re 4ec 5ci 6iv vi5 in4 ng3 g2 
+1p 2ps 3sy 4yc 5co 6ol 7lo og6 gi5 ic4 ca3 al2 l1 0p 1ps 2sy 3yc 4co 5ol 6lo og5 gi4 ic3 ca2 al1 l0 2p 3ps 4sy 5yc 6co 7ol 8lo og7 gi6 ic5 ca4 al3 l2 
+1s 2sl 3li 4im me4 es3 st2 t1 0s 1sl 2li 3im me3 es2 st1 t0 2s 3sl 4li 5im me5 es4 st3 t2 
+1d 2du 3ue el3 ly2 y1 0d 1du 2ue el2 ly1 y0 2d 3du 4ue el4 ly3 y2 
+1c 2ch 3ho os3 se2 e1 0c 1ch 2ho os2 se1 e0 2c 3ch 4ho os4 se3 e2 
+1p 2po 3os 4si 5ib 6bl li6 it5 ti4 ie3 es2 s1 0p 1po 2os 3si 4ib 5bl li5 it4 ti3 ie2 es1 s0 2p 3po 4os 5si 6ib 7bl li7 it6 ti5 ie4 es3 s2 
+1e 2ex 3xp 4pe en4 nc3 ce2 e1 0e 1ex 2xp 3pe en3 nc2 ce1 e0 2e 3ex 4xp 5pe en5 nc4 ce3 e2 
+1c 2cr 3ra 4af 5ft tm4 ma3 an2 n1 0c 1cr 2ra 3af 4ft tm3 ma2 an1 n0 2c 3cr 4ra 5af 6ft tm5 ma4 an3 n2 
+1g 2gr 3ri 4ie 5ev vi5 io4 ou3 us2 s1 0g 1gr 2ri 3ie 4ev vi4 io3 ou2 us1 s0 2g 3gr 4ri 5ie 6ev vi6 io5 ou4 us3 s2 
+1o 2or 3rd 4de 5en na4 ar3 ry2 y1 0o 1or 2rd 3de 4en na3 ar2 ry1 y0 2o 3or 4rd 5de 6en na5 ar4 ry3 y2 
+1l 2la 3ar 4rg gl3 ly2 y1 0l 1la 2ar 3rg gl2 ly1 y0 2l 3la 4ar 5rg gl4 ly3 y2 
+1n 2ni 3it te2 e1 0n 1ni 2it te1 e0 2n 3ni 4it te3 e2 
+1c 2cl 3le 4er rc3 ck2 k1 0c 1cl 2le 3er rc2 ck1 k0 2c 3cl 4le 5er rc4 ck3 k2 
+1a 2av 3va 4ai 5ib bl5 li4 it3 ty2 y1 0a 1av 2va 3ai 4ib bl4 li3 it2 ty1 y0 2a 3av 4va 5ai 6ib bl6 li5 it4 ty3 y2 
+1f 2fa 3am 4mi il4 le3 es2 s1 0f 1fa 2am 3mi il3 le2 es1 s0 2f 3fa 4am 5mi il5 le4 es3 s2 
+1a 2ap 3pr 4ro 5ox 6xi im6 ma5 at4 tl3 ly2 y1 0a 1ap 2pr 3ro 4ox 5xi im5 ma4 at3 tl2 ly1 y0 2a 3ap 4pr 5ro 6ox 7xi im7 ma6 at5 tl4 ly3 y2 
+1m 2me 3er 4rc 5ch 6ha an6 nd5 di4 iz3 ze2 e1 0m 1me 2er 3rc 4ch 5ha an5 nd4 di3 iz2 ze1 e0 2m 3me 4er 5rc 6ch 7ha an7 nd6 di5 iz4 ze3 e2 
+1e 2ex 3xe 4es 5ss 6si iv5 ve4 el3 ly2 y1 0e 1ex 2xe 3es 4ss 5si iv4 ve3 el2 ly1 y0 2e 3ex 4xe 5es 6ss 7si iv6 ve5 el4 ly3 y2 
+1r 2re 3ef 4fe 5er ra5 an4 nc3 ce2 e1 0r 1re 2ef 3fe 4er ra4 an3 nc2 ce1 e0 2r 3re 4ef 5fe 6er ra6 an5 nc4 ce3 e2 
+1t 2th 3ha at3 tt2 t1 0t 1th 2ha at2 tt1 t0 2t 3th 4ha at4 tt3 t2 
+1p 2pi 3ir ro3 or2 r1 0p 1pi 2ir ro2 or1 r0 2p 3pi 4ir ro4 or3 r2 
+1i 2in 3nt 4te 5er 6re 7ef fe7 er6 re5 en4 nc3 ce2 e1 0i 1in 2nt 3te 4er 5re 6ef fe6 er5 re4 en3 nc2 ce1 e0 2i 3in 4nt 5te 6er 7re 8ef fe8 er7 re6 en5 nc4 ce3 e2 
+1w 2wa 3ag 4gi is3 sh2 h1 0w 1wa 2ag 3gi is2 sh1 h0 2w 3wa 4ag 5gi is4 sh3 h2 
+1o 2oc 3ct 4ta ap4 pu3 us2 s1 0o 1oc 2ct 3ta ap3 pu2 us1 s0 2o 3oc 4ct 5ta ap5 pu4 us3 s2 
+1s 2so 3ou 4uv 5vi in4 ne3 er2 r1 0s 1so 2ou 3uv 4vi in3 ne2 er1 r0 2s 3so 4ou 5uv 6vi in5 ne4 er3 r2 
+1f 2fa 3ac 4ci 5il 6la at5 ta4 at3 te2 e1 0f 1fa 2ac 3ci 4il 5la at4 ta3 at2 te1 e0 2f 3fa 4ac 5ci 6il 7la at6 ta5 at4 te3 e2 
+1i 2in 3nd 4de 5ep 6pe 7en nd6 da5 an4 nc3 ce2 e1 0i 1in 2nd 3de 4ep 5pe 6en nd5 da4 an3 nc2 ce1 e0 2i 3in 4nd 5de 6ep 7pe 8en nd7 da6 an5 nc4 ce3 e2 
+1w 2we 3ep 4po on3 ns2 s1 0w 1we 2ep 3po on2 ns1 s0 2w 3we 4ep 5po on4 ns3 s2 
+1c 2co 3om 4mp 5pp pa5 ar4 re3 ed2 d1 0c 1co 2om 3mp 4pp pa4 ar3 re2 ed1 d0 2c 3co 4om 5mp 6pp pa6 ar5 re4 ed3 d2 
+1c 2co 3on 4nc 5ci ie5 en4 nc3 ce2 e1 0c 1co 2on 3nc 4ci ie4 en3 nc2 ce1 e0 2c 3co 4on 5nc 6ci ie6 en5 nc4 ce3 e2 
+1a 2an 3na 4al li4 is3 ss2 s1 0a 1an 2na 3al li3 is2 ss1 s0 2a 3an 4na 5al li5 is4 ss3 s2 
+1l 2la 3ab 4bo 5or rt5 to4 or3 ry2 y1 0l 1la 2ab 3bo 4or rt4 to3 or2 ry1 y0 2l 3la 4ab 5bo 6or rt6 to5 or4 ry3 y2 
+1i 2in 3ns 4si it3 te2 e1 0i 1in 2ns 3si it2 te1 e0 2i 3in 4ns 5si it4 te3 e2 
+1p 2pi 3ic 4ck 5ke er4 ra3 al2 l1 0p 1pi 2ic 3ck 4ke er3 ra2 al1 l0 2p 3pi 4ic 5ck 6ke er5 ra4 al3 l2 
+1r 2re 3es 4st 5tu 6ua ar5 ra4 an3 nt2 t1 0r 1re 2es 3st 4tu 5ua ar4 ra3 an2 nt1 t0 2r 3re 4es 5st 6tu 7ua ar6 ra5 an4 nt3 t2 
+1c 2co 3om 4mp 5pa 6ar rr6 ri5 is4 so3 on2 n1 0c 1co 2om 3mp 4pa 5ar rr5 ri4 is3 so2 on1 n0 2c 3co 4om 5mp 6pa 7ar rr7 ri6 is5 so4 on3 n2 
+1s 2si 3ie 4en ni4 io3 or2 r1 0s 1si 2ie 3en ni3 io2 or1 r0 2s 3si 4ie 5en ni5 io4 or3 r2 
+1p 2pr 3ro 4om 5mo 6on no6 ot5 to4 or3 ry2 y1 0p 1pr 2ro 3om 4mo 5on no5 ot4 to3 or2 ry1 y0 2p 3pr 4ro 5om 6mo 7on no7 ot6 to5 or4 ry3 y2 
+1c 2co 3om mi3 it2 t1 0c 1co 2om mi2 it1 t0 2c 3co 4om mi4 it3 t2 
+1b 2ba 3ar 4ra 5ag 6gi in5 ni4 in3 ng2 g1 0b 1ba 2ar 3ra 4ag 5gi in4 ni3 in2 ng1 g0 2b 3ba 4ar 5ra 6ag 7gi in6 ni5 in4 ng3 g2 
+1r 2re 3eh 4ha 5ab 6bi 7il la6 at5 ta4 at3 te2 e1 0r 1re 2eh 3ha 4ab 5bi 6il la5 at4 ta3 at2 te1 e0 2r 3re 4eh 5ha 6ab 7bi 8il la7 at6 ta5 at4 te3 e2 
+1p 2pr 3re 4ef 5ff fe5 es4 so3 on2 n1 0p 1pr 2re 3ef 4ff fe4 es3 so2 on1 n0 2p 3pr 4re 5ef 6ff fe6 es5 so4 on3 n2 
+1y 2ye 3ei il3 ld2 d1 0y 1ye 2ei il2 ld1 d0 2y 3ye 4ei il4 ld3 d2 
+1p 2pr 3re 4ef 5fe 6er rr6 ra5 ab4 bl3 le2 e1 0p 1pr 2re 3ef 4fe 5er rr5 ra4 ab3 bl2 le1 e0 2p 3pr 4re 5ef 6fe 7er rr7 ra6 ab5 bl4 le3 e2 
+1s 2sh 3he 4ee ep3 pe2 e1 0s 1sh 2he 3ee ep2 pe1 e0 2s 3sh 4he 5ee ep4 pe3 e2 
+1s 2st 3tu 4ud di4 in3 ng2 g1 0s 1st 2tu 3ud di3 in2 ng1 g0 2s 3st 4tu 5ud di5 in4 ng3 g2 
+1e 2ec 3cs 4st ta4 ac3 cy2 y1 0e 1ec 2cs 3st ta3 ac2 cy1 y0 2e 3ec 4cs 5st ta5 ac4 cy3 y2 
+1i 2in 3ns 4st 5ta 6an 7nt ta6 an5 no4 ou3 us2 s1 0i 1in 2ns 3st 4ta 5an 6nt ta5 an4 no3 ou2 us1 s0 2i 3in 4ns 5st 6ta 7an 8nt ta7 an6 no5 ou4 us3 s2 
+1b 2bo 3on na3 as2 s1 0b 1bo 2on na2 as1 s0 2b 3bo 4on na4 as3 s2 
+1i 2im 3me 4ed 5di ia4 at3 te2 e1 0i 1im 2me 3ed 4di ia3 at2 te1 e0 2i 3im 4me 5ed 6di ia5 at4 te3 e2 
+1h 2ha 3an nd3 de2 e1 0h 1ha 2an nd2 de1 e0 2h 3ha 4an nd4 de3 e2 
+1c 2co 3oo ol3 ly2 y1 0c 1co 2oo ol2 ly1 y0 2c 3co 4oo ol4 ly3 y2 
+1r 2rh 3hu 4ue 5em 6ma at5 ti4 is3 sm2 m1 0r 1rh 2hu 3ue 4em 5ma at4 ti3 is2 sm1 m0 2r 3rh 4hu 5ue 6em 7ma at6 ti5 is4 sm3 m2 
+1p 2pa 3at 4te 5er rn5 na4 at3 ty2 y1 0p 1pa 2at 3te 4er rn4 na3 at2 ty1 y0 2p 3pa 4at 5te 6er rn6 na5 at4 ty3 y2 
+1a 2ap 3pp 4pr 5ro 6ox 7xi im6 ma5 at4 tl3 ly2 y1 0a 1ap 2pp 3pr 4ro 5ox 6xi im5 ma4 at3 tl2 ly1 y0 2a 3ap 4pp 5pr 6ro 7ox 8xi im7 ma6 at5 tl4 ly3 y2 
+1c 2ce 3en 4nt 5tr ra4 al3 ly2 y1 0c 1ce 2en 3nt 4tr ra3 al2 ly1 y0 2c 3ce 4en 5nt 6tr ra5 al4 ly3 y2 
+1p 2pe 3er 4rs 5so 6on nn5 ne4 el3 ll2 l1 0p 1pe 2er 3rs 4so 5on nn4 ne3 el2 ll1 l0 2p 3pe 4er 5rs 6so 7on nn6 ne5 el4 ll3 l2 
+1u 2un 3ne 4eq 5qu 6ui 7iv vo6 oc5 ca4 al3 ly2 y1 0u 1un 2ne 3eq 4qu 5ui 6iv vo5 oc4 ca3 al2 ly1 y0 2u 3un 4ne 5eq 6qu 7ui 8iv vo7 oc6 ca5 al4 ly3 y2 
+1e 2el 3li 4im 5mi ia5 at4 te3 ed2 d1 0e 1el 2li 3im 4mi ia4 at3 te2 ed1 d0 2e 3el 4li 5im 6mi ia6 at5 te4 ed3 d2 
+1a 2ap 3pe ea3 al2 l1 0a 1ap 2pe ea2 al1 l0 2a 3ap 4pe ea4 al3 l2 
+1i 2ir 3rr 4re 5ev 6ve el5 la4 an3 nt2 t1 0i 1ir 2rr 3re 4ev 5ve el4 la3 an2 nt1 t0 2i 3ir 4rr 5re 6ev 7ve el6 la5 an4 nt3 t2 
+1b 2be 3el 4le ei4 iv3 ve2 e1 0b 1be 2el 3le ei3 iv2 ve1 e0 2b 3be 4el 5le ei5 iv4 ve3 e2 
+1t 2th 3he ea3 af2 f1 0t 1th 2he ea2 af1 f0 2t 3th 4he ea4 af3 f2 
+1a 2as 3ss 4se 5er rt5 ta4 ai3 in2 n1 0a 1as 2ss 3se 4er rt4 ta3 ai2 in1 n0 2a 3as 4ss 5se 6er rt6 ta5 ai4 in3 n2 
+1m 2me 3et 4tr 5ro 6op 7po ol7 li6 it5 ti4 ia3 an2 n1 0m 1me 2et 3tr 4ro 5op 6po ol6 li5 it4 ti3 ia2 an1 n0 2m 3me 4et 5tr 6ro 7op 8po ol8 li7 it6 ti5 ia4 an3 n2 
+1p 2pr 3ro 4og 5gr 6re es6 ss5 se4 es3 ss2 s1 0p 1pr 2ro 3og 4gr 5re es5 ss4 se3 es2 ss1 s0 2p 3pr 4ro 5og 6gr 7re es7 ss6 se5 es4 ss3 s2 
+1a 2ac 3cu 4um 5mu 6ul la5 at4 te3 ed2 d1 0a 1ac 2cu 3um 4mu 5ul la4 at3 te2 ed1 d0 2a 3ac 4cu 5um 6mu 7ul la6 at5 te4 ed3 d2 
+1s 2se 3ep 4pe 5er 6ra at5 ti4 io3 on2 n1 0s 1se 2ep 3pe 4er 5ra at4 ti3 io2 on1 n0 2s 3se 4ep 5pe 6er 7ra at6 ti5 io4 on3 n2 
+1a 2ad 3dv 4vi is3 se2 e1 0a 1ad 2dv 3vi is2 se1 e0 2a 3ad 4dv 5vi is4 se3 e2 
+1r 2re 3ec 4ce ea4 av3 ve2 e1 0r 1re 2ec 3ce ea3 av2 ve1 e0 2r 3re 4ec 5ce ea5 av4 ve3 e2 
+1c 2co 3on 4ns se4 ed3 de2 e1 0c 1co 2on 3ns se3 ed2 de1 e0 2c 3co 4on 5ns se5 ed4 de3 e2 
+1c 2ca 3ar 4rr re4 er3 rs2 s1 0c 1ca 2ar 3rr re3 er2 rs1 s0 2c 3ca 4ar 5rr re5 er4 rs3 s2 
+1a 2ad 3dv 4vi ic3 ce2 e1 0a 1ad 2dv 3vi ic2 ce1 e0 2a 3ad 4dv 5vi ic4 ce3 e2 
+1c 2ca 3at 4ta 5ag go5 or4 re3 ey2 y1 0c 1ca 2at 3ta 4ag go4 or3 re2 ey1 y0 2c 3ca 4at 5ta 6ag go6 or5 re4 ey3 y2 
+1e 2ex 3xa 4am mi3 in2 n1 0e 1ex 2xa 3am mi2 in1 n0 2e 3ex 4xa 5am mi4 in3 n2 
+1d 2de 3es 4sc 5cv 6vr 7ri ip6 pt5 ti4 io3 on2 n1 0d 1de 2es 3sc 4cv 5vr 6ri ip5 pt4 ti3 io2 on1 n0 2d 3de 4es 5sc 6cv 7vr 8ri ip7 pt6 ti5 io4 on3 n2 
+1a 2an 3nt 4ta 5ar rt4 ti3 ic2 c1 0a 1an 2nt 3ta 4ar rt3 ti2 ic1 c0 2a 3an 4nt 5ta 6ar rt5 ti4 ic3 c2 
+1o 2or 3ra 4an 5ni is4 se3 ed2 d1 0o 1or 2ra 3an 4ni is3 se2 ed1 d0 2o 3or 4ra 5an 6ni is5 se4 ed3 d2 
+1p 2pe 3er 4rs su3 ue2 e1 0p 1pe 2er 3rs su2 ue1 e0 2p 3pe 4er 5rs su4 ue3 e2 
+1p 2pa 3ai in3 ne2 e1 0p 1pa 2ai in2 ne1 e0 2p 3pa 4ai in4 ne3 e2 
+1h 2he 3ei 4ia ar4 rk3 ky2 y1 0h 1he 2ei 3ia ar3 rk2 ky1 y0 2h 3he 4ei 5ia ar5 rk4 ky3 y2 
+1r 2re 3ef 4fr 5ri 6ig 7ge er6 ra5 at4 te3 er2 r1 0r 1re 2ef 3fr 4ri 5ig 6ge er5 ra4 at3 te2 er1 r0 2r 3re 4ef 5fr 6ri 7ig 8ge er7 ra6 at5 te4 er3 r2 
+1a 2ap 3pp 4po 5ol 6lo og5 gi4 ie3 es2 s1 0a 1ap 2pp 3po 4ol 5lo og4 gi3 ie2 es1 s0 2a 3ap 4pp 5po 6ol 7lo og6 gi5 ie4 es3 s2 
+1a 2ap 3pp 4pe 5ea ar4 ri3 in2 n1 0a 1ap 2pp 3pe 4ea ar3 ri2 in1 n0 2a 3ap 4pp 5pe 6ea ar5 ri4 in3 n2 
+1r 2re 3ec 4cl 5la 6ai 7im ma6 at5 ti4 io3 on2 n1 0r 1re 2ec 3cl 4la 5ai 6im ma5 at4 ti3 io2 on1 n0 2r 3re 4ec 5cl 6la 7ai 8im ma7 at6 ti5 io4 on3 n2 
+1e 2el 3le 4eg 5ga ab4 bl3 le2 e1 0e 1el 2le 3eg 4ga ab3 bl2 le1 e0 2e 3el 4le 5eg 6ga ab5 bl4 le3 e2 
+1s 2si 3ie 4ez ze3 ed2 d1 0s 1si 2ie 3ez ze2 ed1 d0 2s 3si 4ie 5ez ze4 ed3 d2 
+1b 2bi 3ic 4cy yc4 ca3 al2 l1 0b 1bi 2ic 3cy yc3 ca2 al1 l0 2b 3bi 4ic 5cy yc5 ca4 al3 l2 
+1n 2ni 3ie 4et th4 he3 er2 r1 0n 1ni 2ie 3et th3 he2 er1 r0 2n 3ni 4ie 5et th5 he4 er3 r2 
+1p 2pr 3ro 4ov 5vi 6is 7si io6 on5 na4 al3 ly2 y1 0p 1pr 2ro 3ov 4vi 5is 6si io5 on4 na3 al2 ly1 y0 2p 3pr 4ro 5ov 6vi 7is 8si io7 on6 na5 al4 ly3 y2 
+1o 2op 3pt 4ti 5it ti4 ia3 an2 n1 0o 1op 2pt 3ti 4it ti3 ia2 an1 n0 2o 3op 4pt 5ti 6it ti5 ia4 an3 n2 
+1i 2ir 3rr 4ri 5is 6st ti5 ib4 bl3 le2 e1 0i 1ir 2rr 3ri 4is 5st ti4 ib3 bl2 le1 e0 2i 3ir 4rr 5ri 6is 7st ti6 ib5 bl4 le3 e2 
+1l 2lo 3oc 4ca al3 ly2 y1 0l 1lo 2oc 3ca al2 ly1 y0 2l 3lo 4oc 5ca al4 ly3 y2 
+1f 2fo 3ox xx2 x1 0f 1fo 2ox xx1 x0 2f 3fo 4ox xx3 x2 
+1a 2al 3lu 4um mn3 ni2 i1 0a 1al 2lu 3um mn2 ni1 i0 2a 3al 4lu 5um mn4 ni3 i2 
+1s 2so 3ou 4ur rs3 se2 e1 0s 1so 2ou 3ur rs2 se1 e0 2s 3so 4ou 5ur rs4 se3 e2 
+1h 2ho 3ow 4we 5ev ve4 er3 rr2 r1 0h 1ho 2ow 3we 4ev ve3 er2 rr1 r0 2h 3ho 4ow 5we 6ev ve5 er4 rr3 r2 
+1c 2co 3ol 4lo 5os si4 iu3 um2 m1 0c 1co 2ol 3lo 4os si3 iu2 um1 m0 2c 3co 4ol 5lo 6os si5 iu4 um3 m2 
+1s 2sy 3ym 4me et4 tr3 ry2 y1 0s 1sy 2ym 3me et3 tr2 ry1 y0 2s 3sy 4ym 5me et5 tr4 ry3 y2 
+1u 2un 3ne 4es 5ss 6se es5 ss4 sa3 ay2 y1 0u 1un 2ne 3es 4ss 5se es4 ss3 sa2 ay1 y0 2u 3un 4ne 5es 6ss 7se es6 ss5 sa4 ay3 y2 
+1a 2ac 3co 4ou un3 nt2 t1 0a 1ac 2co 3ou un2 nt1 t0 2a 3ac 4co 5ou un4 nt3 t2 
+1d 2di 3is 4sc 5cp pl5 li4 in3 ne2 e1 0d 1di 2is 3sc 4cp pl4 li3 in2 ne1 e0 2d 3di 4is 5sc 6cp pl6 li5 in4 ne3 e2 
+1u 2us 3se 4ea ag3 ge2 e1 0u 1us 2se 3ea ag2 ge1 e0 2u 3us 4se 5ea ag4 ge3 e2 
+1r 2rh 3ho 4od 5do 6od 7dr re6 en5 nd4 do3 on2 n1 0r 1rh 2ho 3od 4do 5od 6dr re5 en4 nd3 do2 on1 n0 2r 3rh 4ho 5od 6do 7od 8dr re7 en6 nd5 do4 on3 n2 
+1t 2ty 3yr 4ra 5an ni5 ic4 ca3 al2 l1 0t 1ty 2yr 3ra 4an ni4 ic3 ca2 al1 l0 2t 3ty 4yr 5ra 6an ni6 ic5 ca4 al3 l2 
+1c 2ca 3an 4nt 5ta 6al lo5 ou4 ub3 be2 e1 0c 1ca 2an 3nt 4ta 5al lo4 ou3 ub2 be1 e0 2c 3ca 4an 5nt 6ta 7al lo6 ou5 ub4 be3 e2 
+1a 2an 3nu ua3 al2 l1 0a 1an 2nu ua2 al1 l0 2a 3an 4nu ua4 al3 l2 
+1o 2or 3ri 4ig ge3 en2 n1 0o 1or 2ri 3ig ge2 en1 n0 2o 3or 4ri 5ig ge4 en3 n2 
+1f 2fi 3in 4na al3 ly2 y1 0f 1fi 2in 3na al2 ly1 y0 2f 3fi 4in 5na al4 ly3 y2 
+1b 2bu 3un 4ng ga4 al3 lo2 o1 0b 1bu 2un 3ng ga3 al2 lo1 o0 2b 3bu 4un 5ng ga5 al4 lo3 o2 
+1a 2al 3lo ow2 w1 0a 1al 2lo ow1 w0 2a 3al 4lo ow3 w2 
+1t 2th 3he 4er 5re ef4 fo3 or2 r1 0t 1th 2he 3er 4re ef3 fo2 or1 r0 2t 3th 4he 5er 6re ef5 fo4 or3 r2 
+1b 2bu 3us 4sn ne4 es3 ss2 s1 0b 1bu 2us 3sn ne3 es2 ss1 s0 2b 3bu 4us 5sn ne5 es4 ss3 s2 
+1f 2fu 3un 4nc 5ct 6ti io6 on5 na4 al3 ly2 y1 0f 1fu 2un 3nc 4ct 5ti io5 on4 na3 al2 ly1 y0 2f 3fu 4un 5nc 6ct 7ti io7 on6 na5 al4 ly3 y2 
+1f 2fi 3ic 4ct 5ti it5 to4 ou3 us2 s1 0f 1fi 2ic 3ct 4ti it4 to3 ou2 us1 s0 2f 3fi 4ic 5ct 6ti it6 to5 ou4 us3 s2 
+1o 2op 3pp 4pe 5er 6rt 7tt tu6 un5 ni4 it3 ty2 y1 0o 1op 2pp 3pe 4er 5rt 6tt tu5 un4 ni3 it2 ty1 y0 2o 3op 4pp 5pe 6er 7rt 8tt tu7 un6 ni5 it4 ty3 y2 
+1t 2to 3ob 4bb ba4 ac3 co2 o1 0t 1to 2ob 3bb ba3 ac2 co1 o0 2t 3to 4ob 5bb ba5 ac4 co3 o2 
+1l 2le 3ea 4aw wa3 ay2 y1 0l 1le 2ea 3aw wa2 ay1 y0 2l 3le 4ea 5aw wa4 ay3 y2 
+1a 2ac 3ck 4kn 5no 6ow 7wl 8le ed8 dg7 ge6 em5 me4 en3 nt2 t1 0a 1ac 2ck 3kn 4no 5ow 6wl 7le ed7 dg6 ge5 em4 me3 en2 nt1 t0 2a 3ac 4ck 5kn 6no 7ow 8wl 9le ed9 dg8 ge7 em6 me5 en4 nt3 t2 
+1k 2kn 3ni 4ic 5ck 6kn na5 ac4 ck3 ks2 s1 0k 1kn 2ni 3ic 4ck 5kn na4 ac3 ck2 ks1 s0 2k 3kn 4ni 5ic 6ck 7kn na6 ac5 ck4 ks3 s2 
+1a 2ap 3pr 4ro 5ox 6xi im5 ma4 at3 te2 e1 0a 1ap 2pr 3ro 4ox 5xi im4 ma3 at2 te1 e0 2a 3ap 4pr 5ro 6ox 7xi im6 ma5 at4 te3 e2 
+1a 2ap 3pp 4pa 5ar ra4 an3 nt2 t1 0a 1ap 2pp 3pa 4ar ra3 an2 nt1 t0 2a 3ap 4pp 5pa 6ar ra5 an4 nt3 t2 
+1p 2po 3oe 4et tr4 ri3 ie2 e1 0p 1po 2oe 3et tr3 ri2 ie1 e0 2p 3po 4oe 5et tr5 ri4 ie3 e2 
+1a 2ab 3bb 4ba 5at to4 oi3 ir2 r1 0a 1ab 2bb 3ba 4at to3 oi2 ir1 r0 2a 3ab 4bb 5ba 6at to5 oi4 ir3 r2 
+1a 2ap 3pr 4ro 5op 6pr 7ri ia6 at5 ti4 io3 on2 n1 0a 1ap 2pr 3ro 4op 5pr 6ri ia5 at4 ti3 io2 on1 n0 2a 3ap 4pr 5ro 6op 7pr 8ri ia7 at6 ti5 io4 on3 n2 
+1l 2la 3at 4tt te3 er2 r1 0l 1la 2at 3tt te2 er1 r0 2l 3la 4at 5tt te4 er3 r2 
+1a 2ac 3cc 4ce 5es si4 in3 ng2 g1 0a 1ac 2cc 3ce 4es si3 in2 ng1 g0 2a 3ac 4cc 5ce 6es si5 in4 ng3 g2 
+1c 2cl 3le ev3 va2 a1 0c 1cl 2le ev2 va1 a0 2c 3cl 4le ev4 va3 a2 
+1h 2hi 3in 4nd 5de 6er re5 en4 nc3 ce2 e1 0h 1hi 2in 3nd 4de 5er re4 en3 nc2 ce1 e0 2h 3hi 4in 5nd 6de 7er re6 en5 nc4 ce3 e2 
+1b 2bu 3us 4sh he4 el3 ll2 l1 0b 1bu 2us 3sh he3 el2 ll1 l0 2b 3bu 4us 5sh he5 el4 ll3 l2 
+1f 2fu 3ut 4th he3 er2 r1 0f 1fu 2ut 3th he2 er1 r0 2f 3fu 4ut 5th he4 er3 r2 
+1a 2as 3sk ki3 in2 n1 0a 1as 2sk ki2 in1 n0 2a 3as 4sk ki4 in3 n2 
+1v 2va 3ac 4ce en4 nc3 cy2 y1 0v 1va 2ac 3ce en3 nc2 cy1 y0 2v 3va 4ac 5ce en5 nc4 cy3 y2 
+1o 2ov 3ve 4er ra3 al2 l1 0o 1ov 2ve 3er ra2 al1 l0 2o 3ov 4ve 5er ra4 al3 l2 
+1s 2sc 3ca 4ar 5rs si4 it3 ty2 y1 0s 1sc 2ca 3ar 4rs si3 it2 ty1 y0 2s 3sc 4ca 5ar 6rs si5 it4 ty3 y2 
+1u 2un 3nf 4fo 5or 6rt 7tu un6 na5 at4 tl3 ly2 y1 0u 1un 2nf 3fo 4or 5rt 6tu un5 na4 at3 tl2 ly1 y0 2u 3un 4nf 5fo 6or 7rt 8tu un7 na6 at5 tl4 ly3 y2 
+1r 2re 3eg 4gi in4 ne3 ed2 d1 0r 1re 2eg 3gi in3 ne2 ed1 d0 2r 3re 4eg 5gi in5 ne4 ed3 d2 
+1n 2na 3ap 4pt th3 ha2 a1 0n 1na 2ap 3pt th2 ha1 a0 2n 3na 4ap 5pt th4 ha3 a2 
+1i 2il 3ll 4li 5im 6mi in5 na4 at3 te2 e1 0i 1il 2ll 3li 4im 5mi in4 na3 at2 te1 e0 2i 3il 4ll 5li 6im 7mi in6 na5 at4 te3 e2 
+1a 2ad 3dm 4mi 5in 6ns 7st tr7 ra6 at5 ti4 io3 on2 n1 0a 1ad 2dm 3mi 4in 5ns 6st tr6 ra5 at4 ti3 io2 on1 n0 2a 3ad 4dm 5mi 6in 7ns 8st tr8 ra7 at6 ti5 io4 on3 n2 
+1r 2re 3ec 4ci 5ip 6pr ro5 oc4 ce3 el2 l1 0r 1re 2ec 3ci 4ip 5pr ro4 oc3 ce2 el1 l0 2r 3re 4ec 5ci 6ip 7pr ro6 oc5 ce4 el3 l2 
+1p 2ph 3hi 4is 5si ic5 ci4 ia3 an2 n1 0p 1ph 2hi 3is 4si ic4 ci3 ia2 an1 n0 2p 3ph 4hi 5is 6si ic6 ci5 ia4 an3 n2 
+1i 2in 3ng 4gr 5ra 6at 7ti it6 to5 oo4 od3 de2 e1 0i 1in 2ng 3gr 4ra 5at 6ti it5 to4 oo3 od2 de1 e0 2i 3in 4ng 5gr 6ra 7at 8ti it7 to6 oo5 od4 de3 e2 
+1e 2ea 3as se3 er2 r1 0e 1ea 2as se2 er1 r0 2e 3ea 4as se4 er3 r2 
+1r 2ra 3ai iz3 ze2 e1 0r 1ra 2ai iz2 ze1 e0 2r 3ra 4ai iz4 ze3 e2 
+1a 2au 3ut 4th 5ho 6or ra6 at5 ti4 iv3 ve2 e1 0a 1au 2ut 3th 4ho 5or ra5 at4 ti3 iv2 ve1 e0 2a 3au 4ut 5th 6ho 7or ra7 at6 ti5 iv4 ve3 e2 
+1s 2su 3ug 4ge 5es st4 te3 ed2 d1 0s 1su 2ug 3ge 4es st3 te2 ed1 d0 2s 3su 4ug 5ge 6es st5 te4 ed3 d2 
+1n 2ne 3es 4ss 5se es5 si4 it3 ty2 y1 0n 1ne 2es 3ss 4se es4 si3 it2 ty1 y0 2n 3ne 4es 5ss 6se es6 si5 it4 ty3 y2 
+1b 2ba 3an 4nk 5kr ru5 up4 pc3 cy2 y1 0b 1ba 2an 3nk 4kr ru4 up3 pc2 cy1 y0 2b 3ba 4an 5nk 6kr ru6 up5 pc4 cy3 y2 
+1r 2re 3ed 4du 5un nd5 de4 en3 nt2 t1 0r 1re 2ed 3du 4un nd4 de3 en2 nt1 t0 2r 3re 4ed 5du 6un nd6 de5 en4 nt3 t2 
+1i 2in 3ns 4se en4 ns3 se2 e1 0i 1in 2ns 3se en3 ns2 se1 e0 2i 3in 4ns 5se en5 ns4 se3 e2 
+1c 2co 3on 4nc 5ci ie5 ev4 ve3 ed2 d1 0c 1co 2on 3nc 4ci ie4 ev3 ve2 ed1 d0 2c 3co 4on 5nc 6ci ie6 ev5 ve4 ed3 d2 
+1f 2fl 3la 4am 5ma ab4 bl3 le2 e1 0f 1fl 2la 3am 4ma ab3 bl2 le1 e0 2f 3fl 4la 5am 6ma ab5 bl4 le3 e2 
+1d 2di 3is 4sp pe4 el3 ll2 l1 0d 1di 2is 3sp pe3 el2 ll1 l0 2d 3di 4is 5sp pe5 el4 ll3 l2 
+1r 2re 3ec 4cc 5co 6om 7mm me7 en6 nd5 di4 in3 ng2 g1 0r 1re 2ec 3cc 4co 5om 6mm me6 en5 nd4 di3 in2 ng1 g0 2r 3re 4ec 5cc 6co 7om 8mm me8 en7 nd6 di5 in4 ng3 g2 
+1m 2mo 3ov 4ve ei4 in3 ng2 g1 0m 1mo 2ov 3ve ei3 in2 ng1 g0 2m 3mo 4ov 5ve ei5 in4 ng3 g2 
+1s 2se 3er 4rv 5va ay5 yi4 in3 ng2 g1 0s 1se 2er 3rv 4va ay4 yi3 in2 ng1 g0 2s 3se 4er 5rv 6va ay6 yi5 in4 ng3 g2 
+1o 2oc 3cc 4ca 5as 6si io5 on4 nl3 ly2 y1 0o 1oc 2cc 3ca 4as 5si io4 on3 nl2 ly1 y0 2o 3oc 4cc 5ca 6as 7si io6 on5 nl4 ly3 y2 
+1s 2st 3ta 4an 5ne 6er 7rd di6 iz5 zi4 in3 ng2 g1 0s 1st 2ta 3an 4ne 5er 6rd di5 iz4 zi3 in2 ng1 g0 2s 3st 4ta 5an 6ne 7er 8rd di7 iz6 zi5 in4 ng3 g2 
+1s 2sh 3he 4ep pe4 er3 rd2 d1 0s 1sh 2he 3ep pe3 er2 rd1 d0 2s 3sh 4he 5ep pe5 er4 rd3 d2 
+1e 2ex 3xq 4qu 5ui is4 se3 et2 t1 0e 1ex 2xq 3qu 4ui is3 se2 et1 t0 2e 3ex 4xq 5qu 6ui is5 se4 et3 t2 
+1n 2no 3or 4rm ma4 al3 ly2 y1 0n 1no 2or 3rm ma3 al2 ly1 y0 2n 3no 4or 5rm ma5 al4 ly3 y2 
+1t 2ta 3as 4sb bl3 le2 e1 0t 1ta 2as 3sb bl2 le1 e0 2t 3ta 4as 5sb bl4 le3 e2 
+1p 2pe 3er 4rs 5se 6ev 7ve er6 re5 en4 nc3 ce2 e1 0p 1pe 2er 3rs 4se 5ev 6ve er5 re4 en3 nc2 ce1 e0 2p 3pe 4er 5rs 6se 7ev 8ve er7 re6 en5 nc4 ce3 e2 
+1s 2su 3ue 4ei in3 ng2 g1 0s 1su 2ue 3ei in2 ng1 g0 2s 3su 4ue 5ei in4 ng3 g2 
+1m 2ma 3ag 4gn 5ni 6if 7fi ic6 ci5 ie4 en3 nt2 t1 0m 1ma 2ag 3gn 4ni 5if 6fi ic5 ci4 ie3 en2 nt1 t0 2m 3ma 4ag 5gn 6ni 7if 8fi ic7 ci6 ie5 en4 nt3 t2 
+1a 2ad 3dm 4mi 5is 6ss sa5 ab4 bl3 le2 e1 0a 1ad 2dm 3mi 4is 5ss sa4 ab3 bl2 le1 e0 2a 3ad 4dm 5mi 6is 7ss sa6 ab5 bl4 le3 e2 
+1n 2ne 3ec 4cc 5ca 6as ss5 sa4 ar3 ry2 y1 0n 1ne 2ec 3cc 4ca 5as ss4 sa3 ar2 ry1 y0 2n 3ne 4ec 5cc 6ca 7as ss6 sa5 ar4 ry3 y2 
+1v 2va 3ac 4ci 5in 6nn na6 at5 ti4 io3 on2 n1 0v 1va 2ac 3ci 4in 5nn na5 at4 ti3 io2 on1 n0 2v 3va 4ac 5ci 6in 7nn na7 at6 ti5 io4 on3 n2 
+1e 2ef 3ff 4fe 5ec 6ct ti5 in4 ng3 ge2 e1 0e 1ef 2ff 3fe 4ec 5ct ti4 in3 ng2 ge1 e0 2e 3ef 4ff 5fe 6ec 7ct ti6 in5 ng4 ge3 e2 
+1c 2co 3om 4mp 5po os5 ss4 se3 ed2 d1 0c 1co 2om 3mp 4po os4 ss3 se2 ed1 d0 2c 3co 4om 5mp 6po os6 ss5 se4 ed3 d2 
+1p 2pl 3la 4ai 5ig 6ga ar5 ri4 is3 sm2 m1 0p 1pl 2la 3ai 4ig 5ga ar4 ri3 is2 sm1 m0 2p 3pl 4la 5ai 6ig 7ga ar6 ri5 is4 sm3 m2 
+1p 2pe 3er 4rs 5so 6on na6 al5 li4 it3 ty2 y1 0p 1pe 2er 3rs 4so 5on na5 al4 li3 it2 ty1 y0 2p 3pe 4er 5rs 6so 7on na7 al6 li5 it4 ty3 y2 
+1b 2br 3ri 4ie ef3 ff2 f1 0b 1br 2ri 3ie ef2 ff1 f0 2b 3br 4ri 5ie ef4 ff3 f2 
+1a 2ag 3gr 4ra 5av 6va at5 ti4 in3 ng2 g1 0a 1ag 2gr 3ra 4av 5va at4 ti3 in2 ng1 g0 2a 3ag 4gr 5ra 6av 7va at6 ti5 in4 ng3 g2 
+1b 2be 3en 4ne 5ef 6fi ic6 ci5 ie4 en3 nt2 t1 0b 1be 2en 3ne 4ef 5fi ic5 ci4 ie3 en2 nt1 t0 2b 3be 4en 5ne 6ef 7fi ic7 ci6 ie5 en4 nt3 t2 
+1r 2re 3ep 4pa 5ai 6ir ra6 at5 ti4 io3 on2 n1 0r 1re 2ep 3pa 4ai 5ir ra5 at4 ti3 io2 on1 n0 2r 3re 4ep 5pa 6ai 7ir ra7 at6 ti5 io4 on3 n2 
+1s 2st 3tr 4re 5en no4 ou3 us2 s1 0s 1st 2tr 3re 4en no3 ou2 us1 s0 2s 3st 4tr 5re 6en no5 ou4 us3 s2 
+1e 2en 3nt 4te 5er 6rt te6 ey5 yn4 ne3 ed2 d1 0e 1en 2nt 3te 4er 5rt te5 ey4 yn3 ne2 ed1 d0 2e 3en 4nt 5te 6er 7rt te7 ey6 yn5 ne4 ed3 d2 
+1p 2pr 3ro 4oc 5ce ed5 du4 ue3 er2 r1 0p 1pr 2ro 3oc 4ce ed4 du3 ue2 er1 r0 2p 3pr 4ro 5oc 6ce ed6 du5 ue4 er3 r2 
+1e 2er 3rn 4ne es3 st2 t1 0e 1er 2rn 3ne es2 st1 t0 2e 3er 4rn 5ne es4 st3 t2 
+1c 2ca 3al 4ll li3 in2 n1 0c 1ca 2al 3ll li2 in1 n0 2c 3ca 4al 5ll li4 in3 n2 
+1w 2wh hn2 n1 0w 1wh hn1 n0 2w 3wh hn3 n2 
+1g 2gu 3ua ag3 ge2 e1 0g 1gu 2ua ag2 ge1 e0 2g 3gu 4ua ag4 ge3 e2 
+1d 2de 3ep 4pe 5en 6nd da5 an4 nc3 ce2 e1 0d 1de 2ep 3pe 4en 5nd da4 an3 nc2 ce1 e0 2d 3de 4ep 5pe 6en 7nd da6 an5 nc4 ce3 e2 
+1p 2pr 3ro 4op 5pr 6rt ti5 io4 on3 ns2 s1 0p 1pr 2ro 3op 4pr 5rt ti4 io3 on2 ns1 s0 2p 3pr 4ro 5op 6pr 7rt ti6 io5 on4 ns3 s2 
+1p 2po 3os 4se es3 ss2 s1 0p 1po 2os 3se es2 ss1 s0 2p 3po 4os 5se es4 ss3 s2 
+1i 2im 3ma 4ag 5gn 6na at5 ti4 io3 on2 n1 0i 1im 2ma 3ag 4gn 5na at4 ti3 io2 on1 n0 2i 3im 4ma 5ag 6gn 7na at6 ti5 io4 on3 n2 
+1i 2in 3nu ut2 t1 0i 1in 2nu ut1 t0 2i 3in 4nu ut3 t2 
+1r 2re 3ec 4co 5om 6me en6 nd5 di4 in3 ng2 g1 0r 1re 2ec 3co 4om 5me en5 nd4 di3 in2 ng1 g0 2r 3re 4ec 5co 6om 7me en7 nd6 di5 in4 ng3 g2 
+1a 2ac 3ce 4er 5rt ta4 ai3 in2 n1 0a 1ac 2ce 3er 4rt ta3 ai2 in1 n0 2a 3ac 4ce 5er 6rt ta5 ai4 in3 n2 
+1p 2pa 3ay ye3 ed2 d1 0p 1pa 2ay ye2 ed1 d0 2p 3pa 4ay ye4 ed3 d2 
+1s 2su 3uc 4cc 5ce es5 sf4 fu3 ul2 l1 0s 1su 2uc 3cc 4ce es4 sf3 fu2 ul1 l0 2s 3su 4uc 5cc 6ce es6 sf5 fu4 ul3 l2 
+1e 2et t1 0e 1et t0 2e 3et t2 
+1p 2pa 3ar 4re 5en 6nt th6 ha5 as4 si3 is2 s1 0p 1pa 2ar 3re 4en 5nt th5 ha4 as3 si2 is1 s0 2p 3pa 4ar 5re 6en 7nt th7 ha6 as5 si4 is3 s2 
+1r 2re 3ep 4pi 5it 6ti it5 ti4 io3 on2 n1 0r 1re 2ep 3pi 4it 5ti it4 ti3 io2 on1 n0 2r 3re 4ep 5pi 6it 7ti it6 ti5 io4 on3 n2 
+1s 2so 3oc ca3 al2 l1 0s 1so 2oc ca2 al1 l0 2s 3so 4oc ca4 al3 l2 
+1s 2sy 3ys se3 em2 m1 0s 1sy 2ys se2 em1 m0 2s 3sy 4ys se4 em3 m2 
+1s 2si 3in 4nc 5ce er5 re4 et3 ty2 y1 0s 1si 2in 3nc 4ce er4 re3 et2 ty1 y0 2s 3si 4in 5nc 6ce er6 re5 et4 ty3 y2 
+1s 2sa 3al 4la ar4 ry3 ys2 s1 0s 1sa 2al 3la ar3 ry2 ys1 s0 2s 3sa 4al 5la ar5 ry4 ys3 s2 
+1p 2pr 3ri 4is sn4 ne3 er2 r1 0p 1pr 2ri 3is sn3 ne2 er1 r0 2p 3pr 4ri 5is sn5 ne4 er3 r2 
+1m 2me 3ee 4et ti3 in2 n1 0m 1me 2ee 3et ti2 in1 n0 2m 3me 4ee 5et ti4 in3 n2 
+1a 2ac 3cc 4co 5om 6mo od5 da4 at3 te2 e1 0a 1ac 2cc 3co 4om 5mo od4 da3 at2 te1 e0 2a 3ac 4cc 5co 6om 7mo od6 da5 at4 te3 e2 
+1r 2re 3ef 4fe 5er ri4 in3 ng2 g1 0r 1re 2ef 3fe 4er ri3 in2 ng1 g0 2r 3re 4ef 5fe 6er ri5 in4 ng3 g2 
+1c 2co 3on 4nn 5no 6oi is6 se5 eu4 ur3 rs2 s1 0c 1co 2on 3nn 4no 5oi is5 se4 eu3 ur2 rs1 s0 2c 3co 4on 5nn 6no 7oi is7 se6 eu5 ur4 rs3 s2 
+1c 2co 3or 4rr 5re 6es 7sp 8po on7 nd6 da5 an4 nc3 ce2 e1 0c 1co 2or 3rr 4re 5es 6sp 7po on6 nd5 da4 an3 nc2 ce1 e0 2c 3co 4or 5rr 6re 7es 8sp 9po on8 nd7 da6 an5 nc4 ce3 e2 
+1r 2re 3el 4la 5av ve4 en3 nt2 t1 0r 1re 2el 3la 4av ve3 en2 nt1 t0 2r 3re 4el 5la 6av ve5 en4 nt3 t2 
+1s 2sa 3an 4nw wi4 ic3 ch2 h1 0s 1sa 2an 3nw wi3 ic2 ch1 h0 2s 3sa 4an 5nw wi5 ic4 ch3 h2 
+1p 2pe 3en 4ni 5it 6te en6 nt5 ta4 ar3 ry2 y1 0p 1pe 2en 3ni 4it 5te en5 nt4 ta3 ar2 ry1 y0 2p 3pe 4en 5ni 6it 7te en7 nt6 ta5 ar4 ry3 y2 
+1w 2wa 3ag 4gt te3 ed2 d1 0w 1wa 2ag 3gt te2 ed1 d0 2w 3wa 4ag 5gt te4 ed3 d2 
+1i 2in 3nc 4ci 5id 6de en5 nt4 tl3 ly2 y1 0i 1in 2nc 3ci 4id 5de en4 nt3 tl2 ly1 y0 2i 3in 4nc 5ci 6id 7de en6 nt5 tl4 ly3 y2 
+1d 2dr 3re ew3 we2 e1 0d 1dr 2re ew2 we1 e0 2d 3dr 4re ew4 we3 e2 
+1c 2co 3on 4nt 5ti 6in ni5 io4 ou3 us2 s1 0c 1co 2on 3nt 4ti 5in ni4 io3 ou2 us1 s0 2c 3co 4on 5nt 6ti 7in ni6 io5 ou4 us3 s2 
+1w 2wh 3he 4ea 5at th4 he3 er2 r1 0w 1wh 2he 3ea 4at th3 he2 er1 r0 2w 3wh 4he 5ea 6at th5 he4 er3 r2 
+1s 2su 3up 4pl 5le em5 me4 en3 nt2 t1 0s 1su 2up 3pl 4le em4 me3 en2 nt1 t0 2s 3su 4up 5pl 6le em6 me5 en4 nt3 t2 
+1b 2ba 3at 4ta 5al ll5 li4 io3 on2 n1 0b 1ba 2at 3ta 4al ll4 li3 io2 on1 n0 2b 3ba 4at 5ta 6al ll6 li5 io4 on3 n2 
+1r 2re 3ep 4pe el3 ll2 l1 0r 1re 2ep 3pe el2 ll1 l0 2r 3re 4ep 5pe el4 ll3 l2 
+1w 2we 3ee ed3 de2 e1 0w 1we 2ee ed2 de1 e0 2w 3we 4ee ed4 de3 e2 
+1g 2gu 3ua 4ar 5re 6en nt5 te4 ee3 ed2 d1 0g 1gu 2ua 3ar 4re 5en nt4 te3 ee2 ed1 d0 2g 3gu 4ua 5ar 6re 7en nt6 te5 ee4 ed3 d2 
+1p 2po 3on 4nd 5do or5 ro4 ou3 us2 s1 0p 1po 2on 3nd 4do or4 ro3 ou2 us1 s0 2p 3po 4on 5nd 6do or6 ro5 ou4 us3 s2 
+1i 2in 3nt 4te 5er 6ro 7og ga7 at6 ti5 io4 on3 ng2 g1 0i 1in 2nt 3te 4er 5ro 6og ga6 at5 ti4 io3 on2 ng1 g0 2i 3in 4nt 5te 6er 7ro 8og ga8 at7 ti6 io5 on4 ng3 g2 
+1e 2en 3no 4om 5mo os4 sl3 ly2 y1 0e 1en 2no 3om 4mo os3 sl2 ly1 y0 2e 3en 4no 5om 6mo os5 sl4 ly3 y2 
+1a 2ac 3co 4or 5rd di4 in3 ng2 g1 0a 1ac 2co 3or 4rd di3 in2 ng1 g0 2a 3ac 4co 5or 6rd di5 in4 ng3 g2 
+1c 2co 3on 4nt 5ta ai4 in3 ng2 g1 0c 1co 2on 3nt 4ta ai3 in2 ng1 g0 2c 3co 4on 5nt 6ta ai5 in4 ng3 g2 
+1d 2di 3is 4ss 5sa 6ap po5 oi4 in3 nt2 t1 0d 1di 2is 3ss 4sa 5ap po4 oi3 in2 nt1 t0 2d 3di 4is 5ss 6sa 7ap po6 oi5 in4 nt3 t2 
+1p 2pr 3re 4ej 5je ed5 di4 ic3 ce2 e1 0p 1pr 2re 3ej 4je ed4 di3 ic2 ce1 e0 2p 3pr 4re 5ej 6je ed6 di5 ic4 ce3 e2 
+1i 2in 3nf 4fa 5al la5 ab4 bl3 le2 e1 0i 1in 2nf 3fa 4al la4 ab3 bl2 le1 e0 2i 3in 4nf 5fa 6al la6 ab5 bl4 le3 e2 
+1b 2be 3el 4li iv3 ve2 e1 0b 1be 2el 3li iv2 ve1 e0 2b 3be 4el 5li iv4 ve3 e2 
+1a 2ad 3dm 4mi 5it ti4 in3 ng2 g1 0a 1ad 2dm 3mi 4it ti3 in2 ng1 g0 2a 3ad 4dm 5mi 6it ti5 in4 ng3 g2 
+1p 2pr 3re 4ep 5pa ai5 ir4 re3 ed2 d1 0p 1pr 2re 3ep 4pa ai4 ir3 re2 ed1 d0 2p 3pr 4re 5ep 6pa ai6 ir5 re4 ed3 d2 
+1v 2va 3an 4nc 5ca an4 nc3 cy2 y1 0v 1va 2an 3nc 4ca an3 nc2 cy1 y0 2v 3va 4an 5nc 6ca an5 nc4 cy3 y2 
+1a 2ap 3pa 4ar re4 en3 nt2 t1 0a 1ap 2pa 3ar re3 en2 nt1 t0 2a 3ap 4pa 5ar re5 en4 nt3 t2 
+1e 2ex 3xi 4im 5mi 6in na6 at5 ti4 io3 on2 n1 0e 1ex 2xi 3im 4mi 5in na5 at4 ti3 io2 on1 n0 2e 3ex 4xi 5im 6mi 7in na7 at6 ti5 io4 on3 n2 
+1u 2un 3na 4av 5va 6ai il5 lb4 bl3 le2 e1 0u 1un 2na 3av 4va 5ai il4 lb3 bl2 le1 e0 2u 3un 4na 5av 6va 7ai il6 lb5 bl4 le3 e2 
+1a 2ac 3cc 4ce ee3 ed2 d1 0a 1ac 2cc 3ce ee2 ed1 d0 2a 3ac 4cc 5ce ee4 ed3 d2 
+1a 2au 3ux 4xi 5il ll5 la4 ar3 ry2 y1 0a 1au 2ux 3xi 4il ll4 la3 ar2 ry1 y0 2a 3au 4ux 5xi 6il ll6 la5 ar4 ry3 y2 
+1s 2sa 3af 4fe 5eg ga5 au4 ur3 rd2 d1 0s 1sa 2af 3fe 4eg ga4 au3 ur2 rd1 d0 2s 3sa 4af 5fe 6eg ga6 au5 ur4 rd3 d2 
+1e 2ed 3di 4ii io3 on2 n1 0e 1ed 2di 3ii io2 on1 n0 2e 3ed 4di 5ii io4 on3 n2 
+1c 2co 3on 4nf 5fe 6ec 7ct ti7 io6 on5 na4 ar3 ry2 y1 0c 1co 2on 3nf 4fe 5ec 6ct ti6 io5 on4 na3 ar2 ry1 y0 2c 3co 4on 5nf 6fe 7ec 8ct ti8 io7 on6 na5 ar4 ry3 y2 
+1s 2sh 3ho 4or 5rt te4 en3 nd2 d1 0s 1sh 2ho 3or 4rt te3 en2 nd1 d0 2s 3sh 4ho 5or 6rt te5 en4 nd3 d2 
+1p 2pr 3re 4ec 5ce 6ee ed5 di4 in3 ng2 g1 0p 1pr 2re 3ec 4ce 5ee ed4 di3 in2 ng1 g0 2p 3pr 4re 5ec 6ce 7ee ed6 di5 in4 ng3 g2 
+1p 2pe 3en 4nd 5de el4 lu3 um2 m1 0p 1pe 2en 3nd 4de el3 lu2 um1 m0 2p 3pe 4en 5nd 6de el5 lu4 um3 m2 
+1c 2cl 3le 4ea ar3 rk2 k1 0c 1cl 2le 3ea ar2 rk1 k0 2c 3cl 4le 5ea ar4 rk3 k2 
+1o 2oc 3ca 4as 5ss 6si io6 on5 na4 al3 ly2 y1 0o 1oc 2ca 3as 4ss 5si io5 on4 na3 al2 ly1 y0 2o 3oc 4ca 5as 6ss 7si io7 on6 na5 al4 ly3 y2 
+1n 2na 3ap 4ph ht3 ta2 a1 0n 1na 2ap 3ph ht2 ta1 a0 2n 3na 4ap 5ph ht4 ta3 a2 
+1c 2co 3on 4nv 5ve er5 rs4 sl3 ly2 y1 0c 1co 2on 3nv 4ve er4 rs3 sl2 ly1 y0 2c 3co 4on 5nv 6ve er6 rs5 sl4 ly3 y2 
+1f 2fi 3in 4na al3 ly2 y1 0f 1fi 2in 3na al2 ly1 y0 2f 3fi 4in 5na al4 ly3 y2 
+1r 2re 3ep 4pr 5re 6es 7se 8en na7 at6 ti5 iv4 ve3 es2 s1 0r 1re 2ep 3pr 4re 5es 6se 7en na6 at5 ti4 iv3 ve2 es1 s0 2r 3re 4ep 5pr 6re 7es 8se 9en na8 at7 ti6 iv5 ve4 es3 s2 
+1b 2ba 3an 4na an4 nn3 na2 a1 0b 1ba 2an 3na an3 nn2 na1 a0 2b 3ba 4an 5na an5 nn4 na3 a2 
+1s 2se 3em 4mi 5is st5 te4 er3 rs2 s1 0s 1se 2em 3mi 4is st4 te3 er2 rs1 s0 2s 3se 4em 5mi 6is st6 te5 er4 rs3 s2 
+1p 2pr 3ro 4on 5no 6ou 7un 8nc ci7 ia6 at5 ti4 io3 on2 n1 0p 1pr 2ro 3on 4no 5ou 6un 7nc ci6 ia5 at4 ti3 io2 on1 n0 2p 3pr 4ro 5on 6no 7ou 8un 9nc ci8 ia7 at6 ti5 io4 on3 n2 
+1r 2re 3ec 4ci iv4 ve3 ed2 d1 0r 1re 2ec 3ci iv3 ve2 ed1 d0 2r 3re 4ec 5ci iv5 ve4 ed3 d2 
+1p 2pe 3er 4rm 5mi 6is ss6 sa5 ab4 bl3 le2 e1 0p 1pe 2er 3rm 4mi 5is ss5 sa4 ab3 bl2 le1 e0 2p 3pe 4er 5rm 6mi 7is ss7 sa6 ab5 bl4 le3 e2 
+1v 2va 3al 4lu ub4 bl3 le2 e1 0v 1va 2al 3lu ub3 bl2 le1 e0 2v 3va 4al 5lu ub5 bl4 le3 e2 
+1i 2in 3nd 4di 5is 6sp 7pe en7 ns6 si5 ib4 bl3 le2 e1 0i 1in 2nd 3di 4is 5sp 6pe en6 ns5 si4 ib3 bl2 le1 e0 2i 3in 4nd 5di 6is 7sp 8pe en8 ns7 si6 ib5 bl4 le3 e2 
+1e 2ea 3as 4sy yl3 ly2 y1 0e 1ea 2as 3sy yl2 ly1 y0 2e 3ea 4as 5sy yl4 ly3 y2 
+1i 2im 3mm 4me 5en ns4 sl3 ly2 y1 0i 1im 2mm 3me 4en ns3 sl2 ly1 y0 2i 3im 4mm 5me 6en ns5 sl4 ly3 y2 
+1d 2di 3il 4li 5ir ri5 io4 ou3 us2 s1 0d 1di 2il 3li 4ir ri4 io3 ou2 us1 s0 2d 3di 4il 5li 6ir ri6 io5 ou4 us3 s2 
+1o 2ob 3bl 4li 5ig gg5 ga4 at3 to2 o1 0o 1ob 2bl 3li 4ig gg4 ga3 at2 to1 o0 2o 3ob 4bl 5li 6ig gg6 ga5 at4 to3 o2 
+1a 2ar 3rc 4ch 5he 6eo 7ol lo7 og6 gi5 ic4 ca3 al2 l1 0a 1ar 2rc 3ch 4he 5eo 6ol lo6 og5 gi4 ic3 ca2 al1 l0 2a 3ar 4rc 5ch 6he 7eo 8ol lo8 og7 gi6 ic5 ca4 al3 l2 
+1p 2pr 3ro 4of 5ff fe5 es4 so3 or2 r1 0p 1pr 2ro 3of 4ff fe4 es3 so2 or1 r0 2p 3pr 4ro 5of 6ff fe6 es5 so4 or3 r2 
+1a 2as 3ss 4si 5is 6st te5 en4 nc3 ce2 e1 0a 1as 2ss 3si 4is 5st te4 en3 nc2 ce1 e0 2a 3as 4ss 5si 6is 7st te6 en5 nc4 ce3 e2 
+1v 2ve 3en 4ng 5ga an4 nc3 ce2 e1 0v 1ve 2en 3ng 4ga an3 nc2 ce1 e0 2v 3ve 4en 5ng 6ga an5 nc4 ce3 e2 
+1s 2se 3ei ig3 ge2 e1 0s 1se 2ei ig2 ge1 e0 2s 3se 4ei ig4 ge3 e2 
+1a 2ad 3da 4ap 5pt 6ti 7ib bi6 il5 li4 it3 ty2 y1 0a 1ad 2da 3ap 4pt 5ti 6ib bi5 il4 li3 it2 ty1 y0 2a 3ad 4da 5ap 6pt 7ti 8ib bi7 il6 li5 it4 ty3 y2 
+1e 2ea 3ar 4rl 5ly ye4 es3 st2 t1 0e 1ea 2ar 3rl 4ly ye3 es2 st1 t0 2e 3ea 4ar 5rl 6ly ye5 es4 st3 t2 
+1j 2ju 3ud 4dg 5ge em5 me4 en3 nt2 t1 0j 1ju 2ud 3dg 4ge em4 me3 en2 nt1 t0 2j 3ju 4ud 5dg 6ge em6 me5 en4 nt3 t2 
+1s 2sa 3at 4ti 5is 6sf 7fa ac6 ct5 ta4 ar3 ry2 y1 0s 1sa 2at 3ti 4is 5sf 6fa ac5 ct4 ta3 ar2 ry1 y0 2s 3sa 4at 5ti 6is 7sf 8fa ac7 ct6 ta5 ar4 ry3 y2 
+1u 2us 3su 4ur ro4 ou3 us2 s1 0u 1us 2su 3ur ro3 ou2 us1 s0 2u 3us 4su 5ur ro5 ou4 us3 s2 
+1n 2ne 3eg 4gl 5li 6ig ga5 ab4 bl3 le2 e1 0n 1ne 2eg 3gl 4li 5ig ga4 ab3 bl2 le1 e0 2n 3ne 4eg 5gl 6li 7ig ga6 ab5 bl4 le3 e2 
+1e 2ef 3ff 4fe 5ec 6ci ie5 en4 nc3 cy2 y1 0e 1ef 2ff 3fe 4ec 5ci ie4 en3 nc2 cy1 y0 2e 3ef 4ff 5fe 6ec 7ci ie6 en5 nc4 cy3 y2 
+1c 2co 3on 4nt 5ti in5 no4 ou3 us2 s1 0c 1co 2on 3nt 4ti in4 no3 ou2 us1 s0 2c 3co 4on 5nt 6ti in6 no5 ou4 us3 s2 
+1r 2ry 3yt th3 hm2 m1 0r 1ry 2yt th2 hm1 m0 2r 3ry 4yt th4 hm3 m2 
+1s 2se 3ep 4pe 5er ra5 at4 te3 ed2 d1 0s 1se 2ep 3pe 4er ra4 at3 te2 ed1 d0 2s 3se 4ep 5pe 6er ra6 at5 te4 ed3 d2 
+1e 2ex 3xc 4cx xe4 ep3 pt2 t1 0e 1ex 2xc 3cx xe3 ep2 pt1 t0 2e 3ex 4xc 5cx xe5 ep4 pt3 t2 
+1e 2ex 3xp 4pe 5en nc5 ci4 iv3 ve2 e1 0e 1ex 2xp 3pe 4en nc4 ci3 iv2 ve1 e0 2e 3ex 4xp 5pe 6en nc6 ci5 iv4 ve3 e2 
+1o 2oc 3cc 4ca 5as 6si io6 on5 na4 al3 ly2 y1 0o 1oc 2cc 3ca 4as 5si io5 on4 na3 al2 ly1 y0 2o 3oc 4cc 5ca 6as 7si io7 on6 na5 al4 ly3 y2 
+1e 2en 3nc 4co 5or ra4 ag3 ge2 e1 0e 1en 2nc 3co 4or ra3 ag2 ge1 e0 2e 3en 4nc 5co 6or ra5 ag4 ge3 e2 
+1a 2an 3nw 4ws se3 er2 r1 0a 1an 2nw 3ws se2 er1 r0 2a 3an 4nw 5ws se4 er3 r2 
+1s 2sa 3ag 4ga 5at ti5 io4 ou3 us2 s1 0s 1sa 2ag 3ga 4at ti4 io3 ou2 us1 s0 2s 3sa 4ag 5ga 6at ti6 io5 ou4 us3 s2 
+1e 2ex 3xi 4is 5st ta5 an4 nc3 ce2 e1 0e 1ex 2xi 3is 4st ta4 an3 nc2 ce1 e0 2e 3ex 4xi 5is 6st ta6 an5 nc4 ce3 e2 
+1c 2cu 3ur 4rr re4 er3 rs2 s1 0c 1cu 2ur 3rr re3 er2 rs1 s0 2c 3cu 4ur 5rr re5 er4 rs3 s2 
+1s 2sp 3pe 4ec 5ci im5 ma4 an3 ns2 s1 0s 1sp 2pe 3ec 4ci im4 ma3 an2 ns1 s0 2s 3sp 4pe 5ec 6ci im6 ma5 an4 ns3 s2 
+1e 2ex 3xp 4pa 5an ni4 io3 on2 n1 0e 1ex 2xp 3pa 4an ni3 io2 on1 n0 2e 3ex 4xp 5pa 6an ni5 io4 on3 n2 
+1b 2bo 3ou 4uy ya4 an3 nt2 t1 0b 1bo 2ou 3uy ya3 an2 nt1 t0 2b 3bo 4ou 5uy ya5 an4 nt3 t2 
+1s 2se 3er rc3 ch2 h1 0s 1se 2er rc2 ch1 h0 2s 3se 4er rc4 ch3 h2 
+1e 2ex 3xp 4pe 5er ra5 an4 nc3 ce2 e1 0e 1ex 2xp 3pe 4er ra4 an3 nc2 ce1 e0 2e 3ex 4xp 5pe 6er ra6 an5 nc4 ce3 e2 
+1g 2ga 3as 4st tl3 ly2 y1 0g 1ga 2as 3st tl2 ly1 y0 2g 3ga 4as 5st tl4 ly3 y2 
+1d 2di 3is 4ss 5sa 6ap 7po oi6 it5 ti4 in3 ng2 g1 0d 1di 2is 3ss 4sa 5ap 6po oi5 it4 ti3 in2 ng1 g0 2d 3di 4is 5ss 6sa 7ap 8po oi7 it6 ti5 in4 ng3 g2 
+1s 2su 3up 4pe 5er 6rt 7te en6 nd5 de4 en3 nt2 t1 0s 1su 2up 3pe 4er 5rt 6te en5 nd4 de3 en2 nt1 t0 2s 3su 4up 5pe 6er 7rt 8te en7 nd6 de5 en4 nt3 t2 
+1q 2qu 3ue 4es 5st 6ti io6 on5 na4 ar3 re2 e1 0q 1qu 2ue 3es 4st 5ti io5 on4 na3 ar2 re1 e0 2q 3qu 4ue 5es 6st 7ti io7 on6 na5 ar4 re3 e2 
+1r 2re 3eu 4ul 5lt ti4 in3 ng2 g1 0r 1re 2eu 3ul 4lt ti3 in2 ng1 g0 2r 3re 4eu 5ul 6lt ti5 in4 ng3 g2 
+1m 2ma 3as 4st 5te 6er rp5 pi4 ic3 ce2 e1 0m 1ma 2as 3st 4te 5er rp4 pi3 ic2 ce1 e0 2m 3ma 4as 5st 6te 7er rp6 pi5 ic4 ce3 e2 
+1d 2de 3es 4sp 5pr ra5 at4 tl3 ly2 y1 0d 1de 2es 3sp 4pr ra4 at3 tl2 ly1 y0 2d 3de 4es 5sp 6pr ra6 at5 tl4 ly3 y2 
+1e 2ec 3co 4on 5no 6om mt5 tr4 ri3 ic2 c1 0e 1ec 2co 3on 4no 5om mt4 tr3 ri2 ic1 c0 2e 3ec 4co 5on 6no 7om mt6 tr5 ri4 ic3 c2 
+1e 2ex 3xt 4tr 5re ea5 am4 ml3 ly2 y1 0e 1ex 2xt 3tr 4re ea4 am3 ml2 ly1 y0 2e 3ex 4xt 5tr 6re ea6 am5 ml4 ly3 y2 
+1u 2un 3ni 4iv 5ve 6er rs5 sa4 al3 ly2 y1 0u 1un 2ni 3iv 4ve 5er rs4 sa3 al2 ly1 y0 2u 3un 4ni 5iv 6ve 7er rs6 sa5 al4 ly3 y2 
+1s 2su 3ug ge3 er2 r1 0s 1su 2ug ge2 er1 r0 2s 3su 4ug ge4 er3 r2 
+1n 2ne 3ec 4ce 5es 6ss 7sa ar6 ri5 il4 ll3 ly2 y1 0n 1ne 2ec 3ce 4es 5ss 6sa ar5 ri4 il3 ll2 ly1 y0 2n 3ne 4ec 5ce 6es 7ss 8sa ar7 ri6 il5 ll4 ly3 y2 
+1s 2so 3ov 4vr 5re 6ei ig5 gn4 nt3 ty2 y1 0s 1so 2ov 3vr 4re 5ei ig4 gn3 nt2 ty1 y0 2s 3so 4ov 5vr 6re 7ei ig6 gn5 nt4 ty3 y2 
+1f 2fi 3ir re3 ey2 y1 0f 1fi 2ir re2 ey1 y0 2f 3fi 4ir re4 ey3 y2 
+1c 2ch 3ha 4al 5le en5 ng4 ge3 es2 s1 0c 1ch 2ha 3al 4le en4 ng3 ge2 es1 s0 2c 3ch 4ha 5al 6le en6 ng5 ge4 es3 s2 
+1c 2ca 3al 4la 5at te5 er4 ra3 al2 l1 0c 1ca 2al 3la 4at te4 er3 ra2 al1 l0 2c 3ca 4al 5la 6at te6 er5 ra4 al3 l2 
+1a 2ap 3pr 4re 5ec 6ci ia6 at5 ti4 io3 on2 n1 0a 1ap 2pr 3re 4ec 5ci ia5 at4 ti3 io2 on1 n0 2a 3ap 4pr 5re 6ec 7ci ia7 at6 ti5 io4 on3 n2 
+1a 2an 3no 4om 5mo ol5 li4 ie3 es2 s1 0a 1an 2no 3om 4mo ol4 li3 ie2 es1 s0 2a 3an 4no 5om 6mo ol6 li5 ie4 es3 s2 
+1g 2ga 3au 4ur 5rd di4 ia3 an2 n1 0g 1ga 2au 3ur 4rd di3 ia2 an1 n0 2g 3ga 4au 5ur 6rd di5 ia4 an3 n2 
+1u 2un 3ni 4iv 5ve 6er rs5 sa4 at3 ty2 y1 0u 1un 2ni 3iv 4ve 5er rs4 sa3 at2 ty1 y0 2u 3un 4ni 5iv 6ve 7er rs6 sa5 at4 ty3 y2 
+1a 2ap 3pp 4pr 5ro 6ox xo6 om5 ma4 at3 te2 e1 0a 1ap 2pp 3pr 4ro 5ox xo5 om4 ma3 at2 te1 e0 2a 3ap 4pp 5pr 6ro 7ox xo7 om6 ma5 at4 te3 e2 
+1n 2na 3at 4ti io3 or2 r1 0n 1na 2at 3ti io2 or1 r0 2n 3na 4at 5ti io4 or3 r2 
+1g 2gu 3ui 4id 5dl li5 in4 ne3 es2 s1 0g 1gu 2ui 3id 4dl li4 in3 ne2 es1 s0 2g 3gu 4ui 5id 6dl li6 in5 ne4 es3 s2 
+1p 2pi 3iv 4vt ti4 in3 ng2 g1 0p 1pi 2iv 3vt ti3 in2 ng1 g0 2p 3pi 4iv 5vt ti5 in4 ng3 g2 
+1r 2re 3ef 4ff 5fe 6er re5 en4 nc3 ce2 e1 0r 1re 2ef 3ff 4fe 5er re4 en3 nc2 ce1 e0 2r 3re 4ef 5ff 6fe 7er re6 en5 nc4 ce3 e2 
+1a 2an 3na 4al 5li is4 si3 is2 s1 0a 1an 2na 3al 4li is3 si2 is1 s0 2a 3an 4na 5al 6li is5 si4 is3 s2 
+1a 2as 3ss 4so 5os 6si ia5 at4 te3 ed2 d1 0a 1as 2ss 3so 4os 5si ia4 at3 te2 ed1 d0 2a 3as 4ss 5so 6os 7si ia6 at5 te4 ed3 d2 
+1v 2ve 3er 4rt 5tu ua5 al4 ll3 ly2 y1 0v 1ve 2er 3rt 4tu ua4 al3 ll2 ly1 y0 2v 3ve 4er 5rt 6tu ua6 al5 ll4 ly3 y2 
+1c 2cu 3us 4st 5to om5 me4 er3 ry2 y1 0c 1cu 2us 3st 4to om4 me3 er2 ry1 y0 2c 3cu 4us 5st 6to om6 me5 er4 ry3 y2 
+1s 2su 3uc 4ce es3 ss2 s1 0s 1su 2uc 3ce es2 ss1 s0 2s 3su 4uc 5ce es4 ss3 s2 
+1d 2de 3es 4sc 5ce 6en nd5 de4 en3 nt2 t1 0d 1de 2es 3sc 4ce 5en nd4 de3 en2 nt1 t0 2d 3de 4es 5sc 6ce 7en nd6 de5 en4 nt3 t2 
+1q 2qu 3ua 4at te3 er2 r1 0q 1qu 2ua 3at te2 er1 r0 2q 3qu 4ua 5at te4 er3 r2 
+1p 2pr 3re 4ev 5va ad4 de3 ed2 d1 0p 1pr 2re 3ev 4va ad3 de2 ed1 d0 2p 3pr 4re 5ev 6va ad5 de4 ed3 d2 
+1m 2mu 3ui 4in ne4 et3 ts2 s1 0m 1mu 2ui 3in ne3 et2 ts1 s0 2m 3mu 4ui 5in ne5 et4 ts3 s2 
+1o 2ow 3wn ne2 e1 0o 1ow 2wn ne1 e0 2o 3ow 4wn ne3 e2 
+1s 2si 3il 4lh 5hu ue5 et4 tt3 te2 e1 0s 1si 2il 3lh 4hu ue4 et3 tt2 te1 e0 2s 3si 4il 5lh 6hu ue6 et5 tt4 te3 e2 
+1c 2co 3on 4nt 5ta 6as si5 in4 ne3 ed2 d1 0c 1co 2on 3nt 4ta 5as si4 in3 ne2 ed1 d0 2c 3co 4on 5nt 6ta 7as si6 in5 ne4 ed3 d2 
+1t 2tr 3ra 4ad de4 eg3 gy2 y1 0t 1tr 2ra 3ad de3 eg2 gy1 y0 2t 3tr 4ra 5ad de5 eg4 gy3 y2 
+1a 2as 3ss 4si 5in ni4 in3 ne2 e1 0a 1as 2ss 3si 4in ni3 in2 ne1 e0 2a 3as 4ss 5si 6in ni5 in4 ne3 e2 
